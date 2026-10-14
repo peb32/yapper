@@ -6,7 +6,7 @@
     "libsodium",
     "nlohmann-json",
     { "name": "glfw3", "platform": "windows" },
-    { "name": "opus", "platform": "windows" },
+    { "name": "opus", "platform": "windows | ios" },
     { "name": "miniaudio", "platform": "windows" },
     { "name": "openh264", "platform": "windows" }
   ]
